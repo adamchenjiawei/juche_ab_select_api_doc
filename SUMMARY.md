@@ -10,4 +10,5 @@
    * [获取用户话题的投票信息  GetUserVoteInfo](user/getuservoteinfo.md)
    * [用户投票操作 Vote](user/vote.md)
    * [获取当前用户所发布的内容 UserTopic](user/usertopic.md)
+* [获取七牛凭证 Qiniu](qiniu/README.md)
 
