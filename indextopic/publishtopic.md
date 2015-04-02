@@ -8,7 +8,7 @@
 | -- | -- |
 | idfs | 看首页AB_Select_APP |
 | secret | 看首页AB_Select_APP |
-| access_toen | AB用户的`access_token` |
+| access_token | AB用户的`access_token` |
 | content | 话题内容 |
 | chooes_a | 文字选项A |
 | chooes_b | 文字选项B |

@@ -8,7 +8,7 @@
 | -- | -- |
 | idfs | 看首页AB_Select_APP |
 | secret | 看首页AB_Select_APP |
-| access_toen | AB用户的`access_token` |
+| access_token | AB用户的`access_token` |
 | topic_ids | 话题id（例：1,2,3,4）|
 
 
