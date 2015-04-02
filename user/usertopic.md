@@ -10,7 +10,7 @@
 | idfs | 看首页AB_Select_APP |
 | secret | 看首页AB_Select_APP |
 | access_token | AB用户的`access_token` |
-
+| page | 页码 |
 
 ##返回结果
 | stauts | 说明 |
