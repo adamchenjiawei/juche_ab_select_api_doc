@@ -8,6 +8,7 @@
 | -- | -- |
 | idfs | 看首页AB_Select_APP |
 | secret | 看首页AB_Select_APP |
+| access_token | AB用户的`access_token` |
 | topic_id | 话题ID |
 | chooes_stauts | 投票状态 A／B |
 | item_counts_a | a选项投票 |
