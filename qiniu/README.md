@@ -1,6 +1,6 @@
 # 获取七牛凭证 Qiniu
 
-**POST**  /api/v1/qiniu/uptoken
+**GET**  /api/v1/qiniu/uptoken
 
 ##参数说明
 
