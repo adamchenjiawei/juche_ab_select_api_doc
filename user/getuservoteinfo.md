@@ -26,7 +26,8 @@
  status : 0,
  total : "总共数据",
  data :[
-        {topic_id : "话题id",
+        {
+         topic_id : "话题id",
          chooes_status:"选择状态，返回A／B"
          }...
        ],
