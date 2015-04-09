@@ -28,7 +28,16 @@
 ```JSON
 {
   "status": 0,
-  "data": "",
+  "data": {
+    "topic_id": 21,
+    "user_id": 16,
+    "content": "asda",
+    "chooes_a": "a",
+    "chooes_b": "b",
+    "chooes_img_a": "",
+    "chooes_img_b": "",
+    "time": "2015-04-08T11:31:14.953+08:00"
+  },
   "description": "发布成功"
 }
 
